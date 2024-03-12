@@ -1,50 +1,52 @@
 [
     {
-        "Year": "ll",
-        "Sem": "l",
-        "QUESTION BANK": "Operating System",
-        "Manuals": ""
-      },
-      {
-        "Year": "ll",
-        "Sem": "l",
-        "QUESTION BANK": "Java Programming",
-        "Manuals": ""
-      },
-      {
-        "Year": "ll",
-        "Sem": "l",
-        "QUESTION BANK": "Object Oriented Software Engineering",
-        "Manuals": ""
-      },
-      {
-        "Year": "ll",
-        "Sem": "l",
-        "QUESTION BANK": "Discreate Mathematics",
-        "Manuals": ""
-      },
-      {
-        "Year": "ll",
-        "Sem": "l",
-        "QUESTION BANK": "Computer Networks",
-        "Manuals": ""
-      },
-      {
-        "Year": "ll",
-        "Sem": "l",
-        "QUESTION BANK": "Financial Accounting And Management",
-        "Manuals": ""
-      },
-      {
-        "Year": "ll",
-        "Sem": "l",
-        "QUESTION BANK": "Design And Analysis Of Algorithm",
-        "Manuals": ""
-      },
-      {
-        "Year": "ll",
-        "Sem": "l",
-        "QUESTION BANK": "Database Management System",
-        "Manuals": ""
-      }
-]
+      "Year": "II",
+      "Sem": "I",
+      "QUESTION_BANK": "Operating System",
+      "Manuals": "[Click here](https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_6734437d3ae44e13aa864b0edacac758.pdf)"
+    },
+    {
+      "Year": "II",
+      "Sem": "I",
+      "QUESTION_BANK": "Java Programming",
+      "Manuals": "[Click here](https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_eb0147466df046f1bfbb4e67b2eee141.pdf)"
+    },
+    {
+      "Year": "II",
+      "Sem": "I",
+      "QUESTION_BANK": "Object Oriented Software Engineering",
+      "Manuals": "[Click here](https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_e1978829eb0947f88d1a839a521bd6a1.pdf)"
+    },
+    {
+      "Year": "II",
+      "Sem": "I",
+      "QUESTION_BANK": "Discrete Mathematics",
+      "Manuals": "[Click here](https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_5f3935f3fc50477bac1e8b5bb83e7d6d.pdf)"
+    },
+    {
+      "Year": "II",
+      "Sem": "I",
+      "QUESTION_BANK": "Computer Networks",
+      "Manuals": "[Click here](https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_81d3d18781d84e2485aaf1758c8e3fda.pdf)"
+    },
+    {
+      "Year": "II",
+      "Sem": "I",
+      "QUESTION_BANK": "Financial Accounting and Management",
+      "Manuals": "[Click here](https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_b6011f1e6df04b11a4f193cf5dc8cd70.pdf)"
+    },
+    {
+      "Year": "II",
+      "Sem": "I",
+      "QUESTION_BANK": "Design And Analysis Of Algorithms",
+      "Manuals": "[Click here](https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_96f945f42a254315bd82a71532c5ec65.pdf)"
+    },
+    {
+      "Year": "II",
+      "Sem": "I",
+      "QUESTION_BANK": "Database Management System",
+      "Manuals": "[Click here](https://www.mallareddyuniversity.ac.in/_files/ugd/0c0246_188d0b4cb01b4dcd9302d3b81400a243.pdf)"
+    }
+    
+  ]
+  
